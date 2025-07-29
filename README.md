@@ -64,17 +64,11 @@ lib/
 ---
 
 ## 📸 Screenshots
-
-_(Replace these with actual GitHub-uploaded screenshots)_
-
-| Description                      | Screenshot                         |
-|----------------------------------|-------------------------------------|
-| Login form with validation       | `screenshots/login.png`            |
-| Main dashboard view              | `screenshots/home.png`             |
-| Adding a new task                | `screenshots/add_task.png`         |
-| Viewing and editing task details| `screenshots/task_detail.png`      |
-| Search results and filter views | `screenshots/search.png`           |
-| Completed and pending status    | `screenshots/status.png`           |
+<img width="896" height="1926" alt="image" src="https://github.com/user-attachments/assets/2ec8198a-1b48-471c-b6bc-a02bf351d61e" />
+<img width="900" height="1660" alt="image" src="https://github.com/user-attachments/assets/4af5e02a-c870-437d-96e3-02fde8ba705b" />
+<img width="900" height="1620" alt="image" src="https://github.com/user-attachments/assets/644017ec-4cba-435d-b989-867479af5c4d" />
+<img width="892" height="1888" alt="image" src="https://github.com/user-attachments/assets/6d36e8bd-85c6-4ee1-b720-fa7592df9e1f" />
+<img width="892" height="1874" alt="image" src="https://github.com/user-attachments/assets/b2e97e3c-d3b0-4059-bb28-1862ddb64945" />
 
 ---
 
